@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.15.0](https://github.com/coteeq/ytsaurus-ui/compare/javascript-wrapper-v0.14.0...javascript-wrapper-v0.15.0) (2025-10-08)
+
+
+### Features
+
+* add listOperationEvents method ([cb514a7](https://github.com/coteeq/ytsaurus-ui/commit/cb514a7e388628fb0f76db12ada1f7eb8a123164))
+* **javascript-wrapper:** add 'v4.flowExecute' command [YTFRONT-3978] ([7eff9ad](https://github.com/coteeq/ytsaurus-ui/commit/7eff9adc254b59358018205c0cacf772b2ebb5c4))
+* **javascript-wrapper:** add write file method ([dc53142](https://github.com/coteeq/ytsaurus-ui/commit/dc5314263a5c7c193ef2457a2fe9f7a05bc8fe2a))
+
+
+### Bug Fixes
+
+* **javascript-wrapper:** use 'PUT' for 'v4.flowExecute' [YTFRONT-3978] ([db6b28b](https://github.com/coteeq/ytsaurus-ui/commit/db6b28b6b427d8d4254c4ea63892cdff719ad3da))
+
 ## [0.14.0](https://github.com/ytsaurus/ytsaurus-ui/compare/javascript-wrapper-v0.13.0...javascript-wrapper-v0.14.0) (2025-08-08)
 
 
